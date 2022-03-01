@@ -1,0 +1,358 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A trip. to Jamaica: with a true character of the people and island. / By the author of Sot's paradise.</title>
+            <author>Ward, Edward, 1667-1731.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 44 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B10266</idno>
+            <idno type="OCLC"> 80925324</idno>
+            <idno type="STC">Wing W762</idno>
+            <idno type="STC">ESTC R186246</idno>
+            <idno type="EEBO-CITATION">80925324</idno>
+            <idno type="OCLC">ocm 80925324</idno>
+            <idno type="VID">192168</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B10266)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 192168)</note>
+            <note>Images scanned from microfilm: (Early English books; 1641-1700 ; 2901:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A trip. to Jamaica: with a true character of the people and island. / By the author of Sot's paradise.</title>
+                  <author>Ward, Edward, 1667-1731.</author>
+               </titleStmt>
+               <editionStmt>
+                  <edition>The fourth edition.</edition>
+               </editionStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>printed in the year 1699.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title vignette.</note>
+                  <note>Reproduction of original in the Boston Public Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jamaica --  Description and travel --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:192168:1"/>
+            <pb facs="tcp:192168:1" rendition="simple:additions"/>
+            <p>A TRIP TO JAMAICA: With a True CHARACTER OF THE People and Iſland.</p>
+            <p>
+               <hi>By the Author of</hi> Sot's Paradiſe.</p>
+            <p>
+               <hi>The Fourth Edition.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year 1699.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:192168:2" rendition="simple:additions"/>
+            <pb facs="tcp:192168:2"/>
+            <head>TO THE READER.</head>
+            <p>THE Condition of an <hi>Author</hi> is much like that of a <hi>Strumpet,</hi> both expoſing our <hi>Reputations</hi> to ſup<g ref="char:EOLhyphen"/>ply our <hi>Neceſſities,</hi> till at laſt we contract ſuch an ill habit, thro our Practices, that we are equally troubl'd with an <hi>Itch</hi> to be always <hi>Doing;</hi> and if the Reaſon be requir'd Why we be<g ref="char:EOLhyphen"/>take our ſelves to ſo Scandalous a Profeſſion as <hi>Whoring</hi> or <hi>Pamphleteering,</hi> the ſame Excuſive Anſwer will ſerve us both, <hi>viz.</hi> That the unhappy circumſtances of a Narrow Fortune, hath forc'd us to do that for our Subſiſtance, which we are much aſham'd of.</p>
+            <p>The chiefeſt and moſt commendable Talent, admir'd in either, is the knack of pleaſing; and He or She amongſt us that hap<g ref="char:EOLhyphen"/>pily arives to a Perfection in that ſort of Witchcraft, may in a little time (to their great Honour) enjoy the Pleaſure of being Celebrated by all the <hi>Coxcombs</hi> in the Nation.</p>
+            <p>The only difference between us is, in this particular, where in the <hi>Jilt</hi> has the Advantage, we do our Buſineſs Firſt, and ſtand to the Courteſie of our Benefactors to Reward us after; whilſt the other, for her ſecurity, makes her <hi>Rider</hi> pay for his <hi>Journey,</hi> before he mounts the <hi>Saddle.</hi>
+            </p>
+            <p>
+               <pb facs="tcp:192168:3"/>
+It is neceſſary I ſhould ſay ſomething in relation to the following Matter: I do not therein preſent you with a formal <hi>Journal</hi> of my Voyage, or <hi>Geographical</hi> Deſcription of the <hi>Iſland</hi> of <hi>Jamaica,</hi> for that has been already done by Perſons better Quallified for ſuch a Task. I only Entertain you with what I intend for your <hi>Diverſion,</hi> not <hi>Inſtruction;</hi> Digeſt<g ref="char:EOLhyphen"/>ed into ſuch a Stile as might move your <hi>Laughter;</hi> not merit your <hi>Eſteem.</hi> I queſtion not but the <hi>Jamaica</hi> Coffee-Houſe will be much affronted at my <hi>Character</hi> of their <hi>Sweating Chaos;</hi> and if I was but as well aſſur'd of Pleaſing every body elſe, as I am of Diſpleaſing thoſe who have an Intereſt in that Country, I ſhould not queſtion but the <hi>Printer</hi> would gain his End, which are the Wishes of the <hi>Author.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="5" facs="tcp:192168:3"/>
+            <head>A TRIP TO JAMAICA:</head>
+            <p>
+               <seg rend="decorInit">I</seg>N the times of <hi>Adverſity,</hi> when <hi>Poverty</hi> was held no <hi>Shame,</hi> and <hi>Piety</hi> no <hi>Vertue;</hi> When <hi>Honeſty</hi> in a Tradeſman's Con<g ref="char:EOLhyphen"/>ſcience, and <hi>Money</hi> in his Counting-Houſe, were as ſcarce as <hi>Health</hi> in an Hoſpital, or <hi>Charity</hi> in a Clergy-man. The <hi>Sword</hi> being advanc'd, and the <hi>Pen</hi> ſilenc'd; <hi>Printers</hi> being too Poor to pay down <hi>Copy-Money,</hi> and <hi>Authors</hi> too Poor to Truſt 'em: <hi>Fools</hi> getting more by hazarding their <hi>Carcaſſes,</hi> than <hi>Ingenious Men</hi> by im<g ref="char:EOLhyphen"/>ploying their <hi>Wits;</hi> which was well enough obſerv'd by a Gentle<g ref="char:EOLhyphen"/>man, in theſe following Lines.</p>
+            <q>
+               <l>When <hi>Pens</hi> were valu'd leſs than <hi>Swords,</hi>
+               </l>
+               <l>And Blows got Money more than Words;</l>
+               <l>When Am'rous <hi>Beaux</hi> and Campaign <hi>Bully,</hi>
+               </l>
+               <l>Thriv'd by their <hi>Fighting</hi> and their <hi>Folly;</hi>
+               </l>
+               <l>Whilſt Men of Parts as Poor as <hi>Rats,</hi>
+               </l>
+               <l>With <hi>Mourning Swords</hi> and <hi>Flapping Hats,</hi>
+               </l>
+               <l>Appear by Night, like <hi>Owles</hi> and <hi>Bats;</hi>
+               </l>
+               <l>With Hungry haſte purſuing way,</l>
+               <l>To Sir <hi>John Lend</hi> or 'Squire <hi>Pay.</hi>
+               </l>
+               <l>Till <hi>Wit</hi> in <hi>Rags</hi> or <hi>Fool</hi> in <hi>Feather,</hi>
+               </l>
+               <l>Were joyn'd by Providence together.</l>
+               <l>
+                  <pb n="6" facs="tcp:192168:4"/>
+The one o'er Bottle breaks his Jeſt,</l>
+               <l>Like Country Parſon at a Feaſt;</l>
+               <l>For which he's Treated and Exalted,</l>
+               <l>By his dear Friend Sir <hi>Looby Dolthead.</hi>
+               </l>
+               <l>
+                  <g ref="char:V">Ʋ</g>nhappy Age! which ſo in Vice ſurpaſſes,</l>
+               <l>That Men of Worth muſt Worſhip <hi>Golden Aſſes.</hi>
+               </l>
+            </q>
+            <p>I being influenc'd by my Stars, with an unhappy propenſity, to the Converſation of thoſe unlucky kind of <hi>Fortune-Hunters,</hi> till at laſt, tho' I had no more Wit to boaſt of than another Man, yet I ſhar'd the Fate of thoſe that had; and to bear them Com<g ref="char:EOLhyphen"/>pany, ſtragled ſo far from the Paths of <hi>Profit</hi> and <hi>Preferment,</hi> into a Wilderneſs of <hi>Pleaſure and <hi>Enjoyment,</hi> that I had like to have been ſtuck faſt in a Thicket of Brambles, before I knew where<g ref="char:EOLhyphen"/>abouts I was; to clear my ſelf of which, I buſtled like a <hi>Fox</hi> in a <hi>Gin,</hi> or a <hi>Hare</hi> in a <hi>Partridge-Net:</hi> But before I could free my ſelf from this Entanglement, I had ſo wounded my Feet, and ſtuck ſo many Thorns in my Side, that I halted homewards like a <hi>Gouty Puritan</hi> to an <hi>Election,</hi> or a <hi>Lame Beggar</hi> to a Miſers Funeral.</hi>
+            </p>
+            <p>Theſe little Afflictions mov'd me to reflect upon my Mis-ſpent Time; and like a <hi>Thief</hi> in a <hi>Goal,</hi> or a <hi>Whore</hi> in a <hi>Flux,</hi> I Reſolv'd for the future to Reform my Life, change my Meaſures, and puſh my ſelf upon ſomething that might recover thoſe loſt Moments, I had hitherto converted to the uſe of others, and not my ſelf. I now began to peep into the <hi>Buſineſs</hi> of the World, and chang'd the Company of thoſe who had nothing to do but <hi>Spend Money,</hi> for the Converſation of ſuch whoſe Practice was to <hi>Get it.</hi>
+            </p>
+            <p>But I, thro' Inadvertency, neglecting to conſult Doctor <hi>Trotter,</hi> or ſome other Infallible Predicting Wiſe-aker, began my Reformation in an unfortunate Minute, when <hi>
+                  <g ref="char:V">Ʋ</g>ſurers</hi> were unbinding their <hi>Fetter'd Trunks,</hi> and breaking up their <hi>Deified Bags</hi> and <hi>Conſecrated Sums,</hi> for the ſecurity of <hi>Religion,</hi> and the further eſtabliſhment of <hi>Liberty of Conſcience,</hi> without which <hi>[Liberty]</hi> join'd, <hi>Conſcience</hi> to them would be of no uſe. <hi>Tradeſmen</hi> grumbling at the <hi>Taxes, Merchants</hi> at their <hi>Loſſes,</hi> moſt Men complaining for want of <hi>Buſineſs,</hi> and all Men in <hi>Buſineſs,</hi> for want of <hi>Money:</hi> Every Man upon <hi>Change</hi> look<g ref="char:EOLhyphen"/>ing with as peeviſh a Countenance, as if he had unluckily ſtumbled upon his <hi>Wife's Failings,</hi> and unhappily become a witneſs to his own <hi>Cuckoldome.</hi> Theſe I thought but ſlender Encouragements to a <hi>New Reformiſt,</hi> who had forſaken <hi>Liberty</hi> for <hi>Reſtraint, Eaſe</hi> for <hi>Trouble, Lazineſs</hi> for <hi>Induſtry, Wine</hi> for <hi>Coffee,</hi> and the <hi>Pleaſures</hi> of <hi>Witty Con<g ref="char:EOLhyphen"/>verſation,</hi> for the <hi>Plague,</hi> of a <hi>Muddy-Brain'd Society,</hi> who could talk of
+<pb n="7" facs="tcp:192168:4"/>nothing but <hi>Prime Coſt</hi> and <hi>Profit,</hi> the <hi>Good Humour</hi> of their <hi>Wives,</hi> the <hi>Wittineſs</hi> of their <hi>Children,</hi> and the <hi>
+                  <g ref="char:V">Ʋ</g>nluckineſs</hi> of their <hi>Prentices;</hi> and knew no more how <hi>Handſomely</hi> to Spend their Money, than <hi>Honeſtly</hi> to Get it.</p>
+            <p>The <hi>Complaints</hi> of thoſe <hi>Philodenarians,</hi> the <hi>Declination</hi> of <hi>Trade,</hi> and the <hi>Scarcity of Money,</hi> gave me no more hopes of mending my Condition, by purſuing my intended meaſures, than a <hi>Good Husband</hi> has of mending a <hi>Bad Wife</hi> by winking at her <hi>Vices.</hi> I now found my ſelf in great danger of a Relapſe, to prevent which, after two or three Gallons of <hi>Darby-Ale</hi> had one day ſent my <hi>Wits a Wooll-ga<g ref="char:EOLhyphen"/>thering,</hi> and generated as many <hi>Maggots</hi> in my <hi>Brains,</hi> as there are <hi>Crotchets</hi> in the <hi>Head</hi> of a <hi>Muſician,</hi> or <hi>Fools</hi> in the <hi>Million Lotttry,</hi> I e'en took up a Reſolution to Travel, and Court the Blinking Gipſy <hi>Fortune</hi> in another Country. I then began to Conſider what Cli<g ref="char:EOLhyphen"/>mate might beſt ſuit with my <hi>Conſtitution,</hi> and what part of the World with my <hi>Circumſtances;</hi> and upon mature Deliberation, found a <hi>Warm Latitude</hi> would beſt agree with <hi>Thin Apparel,</hi> and a <hi>Money'd Country</hi> with a <hi>Narrow Fortune;</hi> and having often heard ſuch extravagant Encomiums of that Bleſſed Paradiſe <hi>Jamaica,</hi> where <hi>Gold</hi> is more plentiful than <hi>Ice, Silver</hi> than <hi>Snow, Pearl</hi> than <hi>Hailſtones,</hi> I at laſt determin'd to make a trial of my Stars in that <hi>Iſland,</hi> and ſee whether they had the ſame Unlucky Influence upon me there, as they had, hitherto, in the Land of my Nativity.</p>
+            <p>In order to proceed on my <hi>Voyage,</hi> I took a Paſſage in the good Ship the <hi>Andalucia;</hi> and about the latter end of <hi>January,</hi> 1697. Upon the diſſolution of the hard Froſt, I paſſed, with many others, by the Night Tide, in a <hi>Wherry</hi> to <hi>Graveſend,</hi> where our <hi>Floating Re<g ref="char:EOLhyphen"/>ceptacle</hi> lay ready to take in <hi>Goods</hi> and <hi>Paſſengers;</hi> but our Lady <hi>Thames</hi> being put into a Paſſion, by the rude Kiſſes of an <hi>Eaſterly Wind,</hi> drew her Smooth Face into ſo many Wrinckles, that her ill<g ref="char:EOLhyphen"/>favour'd Aſpect and Murmurings, were to me as Terrible as the Noiſe of <hi>Thieves</hi> to a <hi>Miſer,</hi> or <hi>Bayliffs</hi> to a <hi>Bankrupt:</hi> and being pent up with my Limbs, in an awkward Poſture, lying Heads and Tails, like <hi>Eſſex</hi> Calves in a <hi>Rumford</hi> Waggon, I was forc'd to endure the Inſolence of every Wave, till I was become as Wet as a New Pump'd <hi>Kidnapper.</hi>
+            </p>
+            <p>In this Condition I Embark'd about Two a Clock in the Mor<g ref="char:EOLhyphen"/>ning, where the chief Mate, as Maſter of the Ceremonies, condu<g ref="char:EOLhyphen"/>cted me to a wellcome Collation of <hi>Cheeſe</hi> and <hi>Bisket,</hi> and preſen<g ref="char:EOLhyphen"/>ted me with a Magnificent <hi>Can</hi> of Soveraign <hi>Flip,</hi> prepar'd with as much Art as an <hi>Apothecary</hi> can well ſhew in the mixing of a <hi>Cordial.</hi> After this refreſhment, I betook my ſelf to a <hi>Cabin,</hi> which fitted me ſo well, it ſat as tite as a <hi>Jacket</hi> to a <hi>Dutchman,</hi> where I Slept till Morning, as cloſe as a <hi>Snail</hi> in a <hi>Shell,</hi> or a <hi>Maggot</hi> in an
+<pb n="8" facs="tcp:192168:5"/>
+               <hi>Apple-Kernel.</hi> Then Riſing, and after I had ſurvey'd our Wooden Territories, I began to Contemplate upon things worthy of a ſeri<g ref="char:EOLhyphen"/>ous Conſideration, which ſtir'd up in me that Malignant Spirit of <hi>Poetry,</hi> with which I am oft times unhappily poſſeſs'd: And what my <hi>Muſe</hi> dictated to me, her <hi>Amanuenſis,</hi> I here, preſent unto the <hi>Reader.</hi>
+            </p>
+            <div type="poem">
+               <head>A Farewell to <hi>ENGLAND.</hi>
+               </head>
+               <lg n="1">
+                  <head>I.</head>
+                  <l>FArewell my <hi>Country</hi> and my <hi>Friends,</hi>
+                  </l>
+                  <l>My <hi>Miſtreſs,</hi> and my <hi>Muſe;</hi>
+                  </l>
+                  <l>In diſtant Regions, diff'rent Ends</l>
+                  <l>My <hi>Genius</hi> now purſues.</l>
+                  <l>Thoſe Bleſſings which I held moſt dear,</l>
+                  <l>Are by my ſtubborn Deſtiny,</l>
+                  <l>(That uncontroul'd Neceſſity)</l>
+                  <l>Abandon'd from me, and no more appear.</l>
+               </lg>
+               <lg n="2">
+                  <head>II.</head>
+                  <l>Deſpair of Fortune makes me bold,</l>
+                  <l>I can in Tempeſts Sleep;</l>
+                  <l>And fearleſs of my Fate, behold</l>
+                  <l>The Dangers of the Deep.</l>
+                  <l>No Covetous Deſire of Life,</l>
+                  <l>Can now my Careleſs Thoughts imploy,</l>
+                  <l>Baniſh'd from Friendſhip, Love, and Joy,</l>
+                  <l>To view the Waves and Winds at equal Strife.</l>
+               </lg>
+               <lg n="3">
+                  <head>III.</head>
+                  <l>O'er threatning Billows can I fly,</l>
+                  <l>And, unconcern'd, conceive,</l>
+                  <l>'Tis here leſs difficult to Die,</l>
+                  <l>Than 'twas on Land to Live:</l>
+                  <l>To me 'tis equal, Swim or Sink;</l>
+                  <l>I ſmiling to my Fate can bow,</l>
+                  <l>Bereft of Joy, I think it now</l>
+                  <l>No more to Drown, than 'twas before to Drink.</l>
+               </lg>
+               <lg n="4">
+                  <pb n="9" facs="tcp:192168:5"/>
+                  <head>IV.</head>
+                  <l>Dear Friends with Patience bear the Load</l>
+                  <l>Of Troubles, ſtill to come,</l>
+                  <l>You Pity us who range Abroad,</l>
+                  <l>We Pity you at Home.</l>
+                  <l>Let no Oppreſſion, Fears, or Cares</l>
+                  <l>Make us our Loyalty Disband,</l>
+                  <l>Which, like a well-built Arch, ſhould ſtand</l>
+                  <l>The more ſecure, the greater Weight it bears.</l>
+               </lg>
+               <lg n="5">
+                  <head>V.</head>
+                  <l>Farewell <hi>Applauſe,</hi> that vain Delight</l>
+                  <l>The <hi>Witty</hi> fondly ſeek;</l>
+                  <l>He's Bleſt who like a <hi>Dunce</hi> may <hi>Write,</hi>
+                  </l>
+                  <l>Or like a <hi>Fool</hi> may <hi>Speak:</hi>
+                  </l>
+                  <l>What ever <hi>Praiſe</hi> we gain to day,</l>
+                  <l>Whether deſervedly or no,</l>
+                  <l>We to the Worlds Opinion owe,</l>
+                  <l>Who does as oft <hi>Mis-take</hi> the ſame away.</l>
+               </lg>
+               <lg n="6">
+                  <head>VI.</head>
+                  <l>Something there is, which touches near,</l>
+                  <l>I ſcarce can bid Adieu;</l>
+                  <l>'Tis all my Hope, my Care, my Fear,</l>
+                  <l>And all that I purſue:</l>
+                  <l>'Tis what I Love, yet what I Fly,</l>
+                  <l>But what I dare not, muſt not Name,</l>
+                  <l>Angels Protect the Sacred Frame,</l>
+                  <l>Till I to <hi>England</hi> ſhall Return, or Die.</l>
+               </lg>
+               <p>Towards the Evening the Captain came on Board, with the reſt of our Fellow-Travellers, who, when we were altogether patch'd up as pretty a Society, as a Man under my Circumſtances would deſire to tumble into: There was Three of the <hi>Troubleſome Sex,</hi> as ſome call them, (tho' I never thought 'em ſo) whoſe Cur<g ref="char:EOLhyphen"/>teous Affabillity, and Complaiſance of Temper, admitted of no other Emulation, but to ſtrive who (within the bounds of Mode<g ref="char:EOLhyphen"/>ſty) ſhould be moſt Obliging. One <hi>
+                     <g ref="char:V">Ʋ</g>nfortunate Lady</hi> was in pur<g ref="char:EOLhyphen"/>ſute of a <hi>Stray'd, Husband,</hi> who in <hi>Jamaica,</hi> had Feloniouſly taken to Wife (for the ſake of a Plantation) a <hi>Lacker-Fac'd Creolean,</hi> to
+<pb n="10" facs="tcp:192168:6"/>the great diſſatisfaction of his Original Spouſe, who had often de<g ref="char:EOLhyphen"/>clar'd (thro' the Sweetneſs of her Diſpoſition) That if he had Marri'd another Handſomer than her ſelf, it would never hav'd vex'd her; but to be Rival'd by a <hi>Gipſy,</hi> a Tawny Fac'd <hi>Moletto</hi> Strumpet, a Pump<g ref="char:EOLhyphen"/>kin colour'd Whore, no, her Honour would not ſuffer her to bear with patience ſo coroding an Indignity. The other Two were a pretty <hi>Maid,</hi> and a Comely <hi>Widow;</hi> ſo that in theſe three, we had every Honourable State of the whole Sex: One in the <hi>State</hi> of <hi>Innocency,</hi> another of <hi>Frution,</hi> the third of <hi>Deprivation;</hi> and if we'd had but one in the <hi>State</hi> of <hi>Corruption,</hi> a Man might have pleas'd himſelf as well in our <hi>Little World,</hi> as you <hi>Libertines</hi> can do in the <hi>Great One.</hi>
+               </p>
+               <p>I ſhall be too tedious if I at large Particularize the whole Com<g ref="char:EOLhyphen"/>pany, I ſhall therefore <hi>Huſtle</hi> them together, as a <hi>Moorfields Sweetner</hi> does <hi>Luck in a Bag,</hi> and then you may Wink and Chooſe, for the Devil a Barrel the better Herring amongs us. We had one (as I told you before) <hi>Cherubimical Laſs,</hi> who, I fear, had <hi>Loſt her Self,</hi> two more of the ſame <hi>Gender,</hi> who had loſt their Husbands; two <hi>Parſons</hi> who had loſt their <hi>Livings;</hi> three <hi>Broken Tradeſmen,</hi> who had loſt their <hi>Credit;</hi> and ſeveral, like me, that had loſt their <hi>Wits;</hi> a <hi>Craeoland Captain,</hi> a <hi>Superanuated Mariner,</hi> an <hi>Independant Merchant,</hi> an <hi>Iriſh Kidnapper,</hi> and a <hi>Monmothean Sythe-man,</hi> all going with one De<g ref="char:EOLhyphen"/>ſign, to patch up their <hi>Decay'd Fortunes.</hi>
+               </p>
+               <p>Every thing being in order for <hi>Sailing,</hi> the <hi>Pilot</hi> came on <hi>Board</hi> who put on ſuch a Commanding Countenance, that he look'd as Stern as a <hi>Sarazins Head;</hi> and the <hi>Sins</hi> of his <hi>Youth</hi> having crept into his <hi>Pedeſtals,</hi> he Limp'd about the <hi>Quater-Deck,</hi> like a <hi>Cripple</hi> in <hi>Forma Pauperis</hi> upon a <hi>Mountebanks Stage,</hi> making as great a Noiſe in his <hi>Tarpaulin Cant,</hi> as a <hi>Young Councel</hi> in a <hi>Bad Cauſe,</hi> or a <hi>Butcher</hi> at a <hi>Bear-Garden.</hi> As ſoon as we had weigh'd <hi>Anchor,</hi> under the dole<g ref="char:EOLhyphen"/>ful Cry and hard Service of <hi>Haul Cat haul,</hi> there was nothing heard till we reach'd the <hi>Downs,</hi> but <hi>About Ship my Lads, bring your Fore Tack on Board, haul Fore-Sail haul, Brace about the Main Yard,</hi> and the Devil to do, That I was more Amaz'd than a <hi>Mouſe</hi> at a <hi>Throſters Mill,</hi> or the <hi>Ruſſian Ambaſſador,</hi> at a <hi>Clap</hi> of <hi>Thunder.</hi>
+               </p>
+               <p>By the help of <hi>Providence,</hi> the <hi>Pilot's</hi> Care, and <hi>Seamens</hi> Induſtry, we paſs'd ſafe to <hi>Deal,</hi> where we Anchor'd three or four Days for a fair Wind. In which interim, the <hi>Prince</hi> of the <hi>Air</hi> had puff'd up an unwelcome Blaſt in the Night, which forc'd a Veſſel upon the <hi>Goodwin.</hi> The next Morning the <hi>Salvages</hi> Man'd out a Fleet of their <hi>Deal Skimming-Diſhes,</hi> and made ſuch unmerciful work with the poor diſtreſſ'd <hi>Bark,</hi> that a <hi>Gang</hi> of <hi>Bayliffs</hi> with an <hi>Excecution,</hi> or a <hi>Kennel</hi> of <hi>Hounds</hi> upon a <hi>Dead Horſe,</hi> could not have appear'd more <hi>Ravenous.</hi> From thence with a proſperous Gale, we made the beſt of our way into the wide <hi>Ocean,</hi> which <hi>Marriners</hi> ſay, is of ſuch Profundity,
+<pb n="11" facs="tcp:192168:6"/>that, like a <hi>Miſers Conſcience,</hi> or a <hi>Womans Concupiſcence</hi> 'tis never to be Fathom'd.</p>
+               <p>'Twas in the midſt of Winter, and very Cold Weather, when we ſet out; but in a Fortnights time we were got into a comfortable Climat, which yielded us ſo pleaſant a warmth, that a Man might pluck off his Shirt upon Deck, and commit <hi>Murthor</hi> upon his own <hi>Fleſh</hi> and <hi>Blood</hi> till he was weary, without the danger of an Ague.</p>
+               <p>I happen'd one Morning to hear two <hi>Tar-Jackets</hi> in a very high Diſpute; I went to them, and ask'd the reaſon of their Difference. <hi>Why Sir,</hi> ſays one, <hi>I'll tell you, there was my Maſter</hi> Whiſtlebooby, <hi>an old</hi> Boatſwain <hi>in one of his</hi> Majeſties <hi>Ships, who was</hi> Superhanded, <hi>and paſt his Labour and the</hi> Ambaralitie Divorc'd <hi>him from his Ship, and the</hi> King <hi>allow'd him a</hi> Suſpenſion, <hi>and this Lubberly Whelp here ſays I talk like a Fool; and ſure I have not uſed the Sea this Thirty Years, but I can</hi> Argufie <hi>any thing as proper as he can.</hi>
+               </p>
+               <p>The chief <hi>Sports</hi> we had on Board, to paſs away the tedious Hours, were <hi>Hob, Spie the Market, Shove the Slipper, Dilly Dally,</hi> and <hi>Back-Gam<g ref="char:EOLhyphen"/>mon;</hi> the Latter of which prov'd as ſerviceable to me, as a <hi>Book</hi> of <hi>Heraldy</hi> to a <hi>Gentleman Mumper,</hi> or a <hi>Paſs</hi> to a <hi>Pennileſs Vagabond:</hi> For (like the <hi>Whore</hi> who boaſted of her <hi>Induſtry</hi>) I us'd to make my Days Labour worth <hi>Two Shillings, or Half a Crown,</hi> at <hi>Two Pence,</hi> or a <hi>Groat</hi> a <hi>Bout.</hi> The moſt powerful Adverſary I engag'd with, was a <hi>Parſon,</hi> who, when the Bell Rung to Prayers, would ſtart up in the middle of a Hit, deſire my Patience whilſt he ſtep'd into the <hi>Great Cabin,</hi> and gave his Sinful Congregation a <hi>Dram</hi> of Evangelical <hi>Comfort,</hi> and he would wait upon me preſently. But that <hi>Recreation</hi> in which we took a more peculiar delight, was the Harmony we made by the aſſiſtance of the two <hi>Heaven-drivers,</hi> in Lyricking over ſome <hi>Antiquated Sonnets,</hi> and for varieties ſake, now and then a <hi>Pſalme,</hi> which our Canonical <hi>Vice-Whippers</hi> Sung with as Penitential a grace, as a Sorowful Offen<g ref="char:EOLhyphen"/>der in his <hi>Laſt Night-Cap.</hi>
+               </p>
+               <p>To pleaſe my ſelf at a Spare-Hour, I had taken with me a <hi>Flute,</hi> and there being on Board a <hi>Spanniel Dog,</hi> who <hi>(Seaman-like)</hi> had no great kindneſs for <hi>Wind-Muſick,</hi> for when ever he heard me <hi>Tooting,</hi> he'd be <hi>Howling,</hi> which, together made a Noiſe ſo ſurpriſing, that it frighted away a <hi>Quotidean Ague,</hi> from a Young Fellow who had been three Weeks under the hands of our Doctor.</p>
+               <p>One Night after we had well Moiſten'd our Drouthy Carcaſſes with an Exhilerating Doſe of Right Honourable <hi>Punch,</hi> there aroſe a <hi>Storm,</hi> for which I had often wiſh'd, that I might not be a ſtranger to any Surpriſing Accident the Angry Elements, when at Variance, might afford me. The Heavens all round us (in as little time as a <hi>Girle</hi> might looſe her <hi>Maidenhead</hi>) had put on ſuch a Malignant Aſpect,
+<pb n="12" facs="tcp:192168:7"/>as if it threaten'd our Deſtruction; And <hi>Aeolus</hi> gave ſuch unmer<g ref="char:EOLhyphen"/>ciful Puffs, and Whiffs, that I was fearful to ſtand upon the <hi>Quarter Deck,</hi> leſt, before my time, I ſhould be ſnatch'd up to Heaven in a Whirle-Wind. From all the Corners of the Skie there darted forth ſuch Beams of <hi>Lightning,</hi> that I Vow and Proteſt the <hi>Fire-works</hi> in St. <hi>James</hi>'s-<hi>Square,</hi> were no more to be compar'd to't, than a <hi>Gloworms Arſe</hi> to a <hi>Cotten Candle,</hi> which were Inſtantly ſucceeded with ſuch Vollys of <hi>Thunder,</hi> from every ſide, that you would have thought the <hi>Clouds</hi> had been fortified with <hi>Whole Cannon,</hi> and weary of being toſt about with every Wind, were Fighting their way into a Calmer Region, to enjoy their Reſt, Then fell ſuch an exceſſive <hi>Rain,</hi> that as we had one Sea under us, we fear'd another had been tumbling upon our Heads; for my part, I fear'd the very <hi>Falling</hi> of the <hi>Skie,</hi> and thought of no<g ref="char:EOLhyphen"/>thing but <hi>Catching</hi> of <hi>Larks.</hi> My Spirits being a little depreſt, by the apprehenſions of the Danger we were under, I went down into the <hi>Gun-room,</hi> to conſult my <hi>Brandy-Cask</hi> about taking of a <hi>Dram;</hi> where one of our <hi>Ladies,</hi> thro' want of better Accomodation, was forc'd to be Content with a <hi>Cradle,</hi> in which ſhe was <hi>Praying,</hi> with as much Since<g ref="char:EOLhyphen"/>rity, for <hi>Fair Weather,</hi> as a <hi>Farmer</hi> for a <hi>Kind Harveſt,</hi> or an <hi>Old Maid</hi> for a <hi>Good Husband:</hi> And I being greatly pleas'd at her moſt Impor<g ref="char:EOLhyphen"/>tunate Solicitations, have given you a Repetition of one part, <hi>viz. And if Thou haſt Decreed, that we ſhall Periſh in this</hi> Tempeſt, <hi>I moſt humbly beſeech Thee to Puniſh with</hi> Pox, Barrenneſs, <hi>and</hi> Dry-Belly-Ach, <hi>that</hi> Adulterous Strumpet, <hi>who, by Robbing me of my</hi> Husband, <hi>hath been a means of bringing me to this <g ref="char:V">Ʋ</g>ntimely End; may her whole. Life be a continued courſe of</hi> Sin <hi>without a moments</hi> Repentance, <hi>that ſhe may</hi> Die <hi>without</hi> Forgive<g ref="char:EOLhyphen"/>neſs, <hi>and be</hi> Damn'd <hi>without</hi> Mercy. In which Interim, a Sea waſh'd over our <hi>Fore-Caſtle,</hi> run <hi>Aft,</hi> and came down the <hi>Whip-ſcuttle,</hi> ſhe con<g ref="char:EOLhyphen"/>cluding we were going to the Bottom, Shreek'd out, and fell into a <hi>Fit;</hi> whilſt I, thro' my <hi>Fear,</hi> together with my <hi>Modeſty,</hi> ſcorn'd to take the Advantage of ſo fair an Opportunity.</p>
+               <p>In a doubtful Condition, between this World and the next, we labour'd till near Morning, about which time the Storm abated; But as ſoon as Day-light appear'd and the ſerenity of the Weather had turn'd our Frightful Apprehenſions into a little Alacrity, ſome of the Men, from <hi>Aloft,</hi> Spi'd a Sail bearing after us with all Expedition; and being no great diſtance from the Coaſt of <hi>Sally,</hi> a jealouſie aroſe a<g ref="char:EOLhyphen"/>mongſt our Officers, of her being a Man of War belonging to that Country, they having upon the Concluſion of the late Peace with <hi>France,</hi> Proclaim'd a War with <hi>England;</hi> ſo that we thought our ſelves now in as great danger of being knock'd on the Head, or made Slaves, as we were before of being Drown'd. This Alaram kindled up amongſt us new fears of approaching Danger, more Terrible than the former we had ſo happily ſurviv'd.</p>
+               <p>Command was given by our Captain, to prepare for a Fight; down Cheſts, up Hammocks, bring the ſmall Arms upon the Quarter,
+<pb n="13" facs="tcp:192168:7" rendition="simple:additions"/>an every Man directed to his Poſt, by orders fix'd upon the <hi>Mizzen-maſt</hi> in the <hi>Steerage;</hi> the <hi>Bulkhead</hi> and <hi>Cabins</hi> nock'd down, the <hi>Deck</hi> clear'd <hi>Fore</hi> and <hi>Aft,</hi> for every Man to have free acceſs to his Buſineſs. When all things were in readineſs to receive an Enemy, I took a walk on purpoſe to look about me, and was ſo animated which the Seamens Activity and Induſtry, together with the ſmell of Sweat, Match, and Gun-powder, that like 'Squire <hi>Witherington</hi> in <hi>Chevy Chaſe,</hi> I could have Fought upon my Stumps. By this time our ſuppos'd Enemy was almoſt come up with us, under <hi>Engliſh</hi> Colours, but his keeping cloſe upon our <hi>Quarter,</hi> and not bearing off, gave us ſtill reaſons to miſtruſt him; but ſeeing him a ſmall Ship, and ours a Veſſel of 400 Tuns, 28 Guns, and about 50 Men, we <hi>Furl</hi>'d our <hi>Main-Sail</hi> with all our Hands at once, as a ſtratagem to ſeem well Man'd; put our <hi>Top-Sailes</hi> aback, and lay by, to let 'em ſee we were <hi>no more Afraid than Hurt.</hi> We had on Board an <hi>Iriſh-man</hi> going over a Servant, who I ſuppoſe was <hi>Kidnap'd;</hi> I obſerv'd this Fellow, being quarter'd at a Gun, look'd as pale as a <hi>Pickpocket</hi> new taken: I ask'd him why he put on ſuch a <hi>Cow<g ref="char:EOLhyphen"/>ardly</hi> look; and told him 'twas a ſhame for a Man to ſhew ſo much Fear in his Coun<g ref="char:EOLhyphen"/>tenance. <hi>Indeed Sir</hi> (ſaid he) <hi>I cannot halp et, I love the bate of a Drum, the Pop of a Pi<g ref="char:EOLhyphen"/>ſtol, or the Bounch of a Muſhket wall enough, but, by my Shoul, the Roaring of a Great Gun always makeſh me ſtart.</hi> I ask'd him whoſe Servant he was. <hi>By my Fait,</hi> ſaid he, <hi>I cannot tell; I waſh upon Change looking for a good Maſhter, and a brave Gentleman came to me and ask'd me who I waſh; and I told him I waſh myn nowm ſhelf, and he gave me ſome good Wine and good Ale, and brought me on Board, and I have not ſheen him ſinch.</hi> By this time our Adverſary was come within hearing, and upon our Hailing of him, prov'd a little ſhip bound to <hi>Guinea,</hi> which put an end to our Fears, and made us fly to the <hi>Punch-Bowle</hi> with as much Joy as the <hi>Mob</hi> to a <hi>Bonfire</hi> upon a State- <hi>Holyday.</hi>
+               </p>
+               <p>After we had chas'd away the remembrance of our paſt Dangers, with a reviving draught of our Infallible Elixir, we began to be <hi>Merry</hi> as ſo many <hi>Beggars</hi> (and indeed were before as <hi>Poor</hi>) beginning to turn that into Ridicule, which ſo lately had chang'd our Jollitry into Fear and Sadneſs. When we had thus refreſh'd our Bodies, and ſtrengthen'd our Spirits, by paſſing round a Health to our Noble Selves, <hi>&amp;c.</hi> 'twas thought high time by our Reverend Paſtors, to return Thanks for our great Deli<g ref="char:EOLhyphen"/>verance from the hands of our Enemies, tho' we had none near us, which was accor<g ref="char:EOLhyphen"/>dingly perform'd with all the Solemnity a parcel of <hi>Merry Juvenal</hi> Wags could compoſe themſelves to obſerve.</p>
+               <p>By this time we were got into ſo warm a Latitude, that (God be thanked) a <hi>Louſe</hi> would not live in it: We now began to thin our Dreſs, and, had not Decency forbid it, could have gladly gone Naked, as our firſt Parents. Kiſſing here grew out of Faſhion; there's no joyning of Lips, but your Noſes would drop Sweat in your Mouths. The Sea, and other Elements, began now to entertain us with Curioſities in Nature worth obſerving, as <hi>Grampos, Sharks, Porpus, Flying-Fiſh, Albacores Bonetta's, Dolphin, Bottle-noſes, Turtle, Blubber, Stingrays, Sea-Adders,</hi> and the Devil and all of <hi>Mon<g ref="char:EOLhyphen"/>ſters</hi> without Names, and ſome without Shape. As for Birds, <hi>Noddys, Boobies, Shear<g ref="char:EOLhyphen"/>waters, Shags, Pitternells, Men of War, Tropick Birds, Pellicans,</hi> &amp;c. I ſhall not under<g ref="char:EOLhyphen"/>take here to deſcribe theſe Creatures, becauſe ſome of them are ſo Frightfully Ugly, that if any Friends Wife with Child ſhould long for the Reading of my Book, it ſhould chance to make her Miſcarry. But that which I thought moſt worthy of Obſervation, were the <hi>Clouds,</hi> whoſe various Forms, and beauteous Colours, were Inimitable by the Pencil of the greateſt Artiſt in the Univerſe, <hi>Cities, Palaces, Groves, Fields,</hi> and <hi>Gardens, Monuments, Caſtles, Armies, Bulls, Bears,</hi> and <hi>Dragons,</hi> &amp;c. as if the Air above us had been Frozen into a <hi>Looking-Glaſs,</hi> and ſhew'd us by Reflection, all the Rarities in Nature.</p>
+               <p>By this time we had gain'd the Tropick, and come into a Trade-Wind; the grea<g ref="char:EOLhyphen"/>teſt of our fears being now a <hi>Calm,</hi> which is fine weather to pleaſe fearful Tempers; but it brings us more in danger of being <hi>Starv'd,</hi> than a <hi>Storm</hi> does of being <hi>Drown'd:</hi> Tho' it was our Fortune in a few Days after, to make the <hi>Leward-Iſlands,</hi> and put us
+<pb n="14" facs="tcp:192168:8"/>paſt the dread of ſo terrible a <hi>Cataſtrophe,</hi> thoſe we paſs'd in ſight of, were, <hi>Deſcado,</hi> a rare place for a Bird-catcher to be Governour of, Birds being the only Creatures by which 'tis inhabited; <hi>Montſerat Antego, Mevis,</hi> poſſeſs'd by the <hi>Engliſh;</hi> St. <hi>Chriſto<g ref="char:EOLhyphen"/>phers,</hi> by half <hi>Engliſh</hi> half <hi>French; Rodunday,</hi> an uninhabitable high Rock. From amongſt theſe <hi>Caribbee</hi> Iſlands, in a few days, we got to <hi>Hiſpaniola,</hi> without any thing remarkable; and from thence, in 24 Hours, with a freſh Gale, within ſight of <hi>Jamaica,</hi> which (without Malice or Partiallity) I ſhall proceed to give you ſome Ac<g ref="char:EOLhyphen"/>count of.</p>
+            </div>
+            <div type="description">
+               <head>A Character of <hi>JAMAICA.</hi>
+               </head>
+               <p>THE Dunghill of the Univerſe, the Refuſe of the whole Creation, the Clippings of the Elements, a ſhapeleſs pile of Rubbiſh confus'dly jumbl'd into an Emblem of the <hi>Chaos,</hi> neglectect by Omnipotence when he form'd the World into its admirable Or<g ref="char:EOLhyphen"/>der. The Nurſery of Heavens Judgments, where the Malignant Seeds of all Peſti<g ref="char:EOLhyphen"/>lence were firſt gather'd and ſcatter'd thro' the Regions of the Earth, to Punniſh Mankind for their Offences. The Place where <hi>Pandora</hi> fill'd her Box, where <hi>Vulcan</hi> Forg'd <hi>Joves</hi> Thunder-bolts, and that <hi>Phaeton,</hi> by his raſh miſguidance of the Sun, ſcorch'd into a Cinder. The Receptacle of Vagabonds, the Sanctuary of Bankrupts, and a Cloſe-ſtool for the Purges of our Priſons. As Sickly as an Hoſpital, as Dan<g ref="char:EOLhyphen"/>gerous as the Plague, as Hot as Hell, and as Wicked as the Devil. Subject to Tur<g ref="char:EOLhyphen"/>nadoes, Hurricans, and Earthquakes, as if the Iſland, like the People, were troubled with the <hi>Dry Belly-Ach.</hi>
+               </p>
+            </div>
+            <div type="description">
+               <head>Of their Proviſions.</head>
+               <p>THE chiefeſt of their Proviſions is <hi>Sea Turtle,</hi> or a <hi>Toad in a ſhell,</hi> ſtew'd in its own Gravy; its Lean is as White as a Green-ſickneſs Girl, its Fat of a Calves-turd Colour; and is excellently good to put a ſtranger into a Flux, and purge out part of thoſe ill Humours it infallibly creates. The Belly is call'd <hi>Callipee,</hi> the Back <hi>Callipach;</hi> and is ſerv'd up to the Table in its own Shell, inſtead of a Platter. They have <hi>Guana's, Hikceries,</hi> and <hi>Crabs;</hi> the firſt being an Amphibeous <hi>Serpent,</hi> ſhap'd like a <hi>Lizard,</hi> but black and larger, the ſecond a <hi>Land-Tortoiſe,</hi> the laſt needs no Deſcription, but are as numerous as <hi>Frogs</hi> in <hi>England,</hi> and Borrough in the Ground like <hi>Rabbets,</hi> ſo that the whole <hi>Iſland</hi> may be juſtly call'd, <hi>A Crabb-Warren.</hi> They are Fatteſt near the <hi>Pallaſadoes,</hi> where they will make a Skelleton of a Corps in as little time as a <hi>Tanner</hi> will Flea a <hi>Colt,</hi> or a <hi>Hound</hi> after Hunting devour a <hi>Shoulder of Mutton.</hi> They have <hi>Beef</hi> without Fat, Lean <hi>Mutton</hi> without Gravy, and <hi>Fowles</hi> as dry as the Udder of an Old Woman, and as tough as a Stake from the Haunches of a Superanuated <hi>Car-Horſe.</hi>
+               </p>
+               <p>Milk is ſo plenty, you may buy it for Fifteen Pence a Quart; but Cream ſo very ſcarce, that a Firkin of Butter, of their own making, would be ſo coſtly a Jewel, that the Richeſt Man in the Iſland would be unable to purchaſe it. They value themſelves greatly upon the ſweetneſs of their Pork, which is indeed luſhious, but as flabby as the Fleſh of one juſt riſen from a Flux, and ought to be forbid in all hot Countries (as amongſt the <hi>Jews</hi>) for the prevention of <hi>Leproſie, Scurvy,</hi> and other Diſtempers, of which it is a great occaſion.</p>
+               <p>There is very little <hi>Veal,</hi> and that Lean; for in <hi>England</hi> you may Nurſe four <hi>Chil<g ref="char:EOLhyphen"/>dren</hi> much cheaper than you can one <hi>Calf</hi> in <hi>Jamaica.</hi> They have courſe <hi>Teal,</hi> almoſt as big as <hi>Engliſh Ducks;</hi> and <hi>Moſcovy Ducks</hi> as big as <hi>Geeſe;</hi> But as for their <hi>Geeſe,</hi> they may be all <hi>Swans,</hi> for I never ſaw one in the Iſland.</p>
+               <p>There are ſundry ſorts of <hi>Fiſh,</hi> under <hi>Indian</hi> Names, without Scales, and of a <hi>Ser<g ref="char:EOLhyphen"/>pentine Complexion;</hi> they Eat as dry as a <hi>Shad,</hi> and much ſtronger than ſtale <hi>Herrings</hi> or <hi>Old Ling;</hi> with Oyl'd <hi>Butter</hi> to the Sawce as rank as <hi>Gooſe-Greaſe,</hi> improv'd with the palatable Reliſh of a ſtinking <hi>Anchovie.</hi>
+               </p>
+               <p>
+                  <pb n="15" facs="tcp:192168:8"/>
+They make a rare <hi>Soop</hi> they call <hi>Pepper-pot;</hi> it's an excellent Breakfaſt. for a <hi>Salaman<g ref="char:EOLhyphen"/>der,</hi> or a good preparative for a <hi>Mountebanks Agent,</hi> who Eats Fire one day, that he may get better Victuals the next. Three Spoonfuls ſo Inflam'd my Mouth, that had I devour'd a Peck of <hi>Horſe-Radiſh,</hi> and Drank after it a Gallon of <hi>Brandy</hi> and <hi>Gunpow<g ref="char:EOLhyphen"/>der,</hi> (<hi>Dives</hi> like) I could not have been more importunate for a Drop of Water to cool my Tongue.</p>
+               <p>They greatly abound in a Beautiful Fruit, call'd a <hi>Cuſſue,</hi> not unlike an <hi>Apple,</hi> but longer; it's ſoft and very Juicy, but ſo great an Acid, and of a Nature ſo Reſtrin<g ref="char:EOLhyphen"/>gent, that by Eating of one, it drew up my Mouth like a <hi>Hens Fundament,</hi> and made my Pallat as Rough, and Tongue as Sore as if I had been Gargling it with <hi>Allom-Water:</hi> From whence I conjecture, they are a much ſitter Fruit to recover <hi>Loſt Maiden<g ref="char:EOLhyphen"/>heads,</hi> properly apply'd, than to be Eaten. Of <hi>Water-Mellons</hi> and <hi>Mus-Mellons</hi> they have plenty; the former is of as cold a quality as a <hi>Cucumber,</hi> and will diſſolve in your <hi>Mouth</hi> like <hi>Ice</hi> in a hot <hi>Frying-pan,</hi> being as <hi>Pleaſant</hi> to the <hi>Eater</hi> (and, I believe, as <hi>Wholſome</hi>) as a Cup of <hi>Rock-Water</hi> to a Man in a <hi>Hectick Feavour:</hi> The latter are large and luſhious, but much too watery to be good.</p>
+               <p>
+                  <hi>Coco-Nuts,</hi> and <hi>Phyſick-Nuts</hi> are in great eſteem amongſt the Inhabitants; the former they reckon <hi>Meat, Drink,</hi> and <hi>Cloth,</hi> but the Eatable part is ſecur'd within ſo ſtrong a Magazine, that it requires a Luſty <hi>Carpenter,</hi> well Arm'd with <hi>Ax</hi> and <hi>Hand<g ref="char:EOLhyphen"/>ſaw,</hi> to hew a paſſage to the <hi>Kernel,</hi> and when he has done, it will not recompence his Labour. The latter is big as a <hi>Filbert,</hi> but (like a <hi>Beautiful Woman</hi> well Dreſt, and <hi>Infectious</hi>) if you venture to Taſte, is of ill conſequence: Their Shell is Black, and <hi>Japan'd</hi> by Nature, exceeding Art; the Kernel White, and extream Pleaſant to the Palat, but of ſo powerful an Operation, that by taking two, my Guts were Swept as clean, as ever <hi>Tom-T</hi>—<hi>d-man</hi> made a <hi>Vault,</hi> or any of the <hi>Black Fraternity</hi> a <hi>Chimney.</hi>
+               </p>
+               <p>They have <hi>Oranges, Lemonds, Limes,</hi> and ſeveral other Fruits, as <hi>Sharp</hi> and <hi>Crabbed</hi> as themſelves, not given them as a <hi>Bleſſing,</hi> but a <hi>Curſe;</hi> for Eating ſo many ſower things, Generates a <hi>Corroding Slime</hi> in the Bowels, and is one great occaſion of that Fatal and Intolerable Diſtemper, <hi>The Dry Belly-Ach;</hi> which in a Fortnight, or Three Weeks, takes away the uſe of their Limbs, that they are forc'd to be led about by <hi>Negro's.</hi> A Man under this Miſery, may be ſaid to be the <hi>'Scutchion</hi> of the <hi>Iſland,</hi> the Complection of the Patient being the <hi>Field,</hi> bearing <hi>Or,</hi> Charg'd with all the Emblems of Deſtruction, <hi>proper;</hi> ſupported by <hi>Two Devils, Sable;</hi> and <hi>Death</hi> the <hi>Creſt Argent.</hi> Many other Fruits there are, that are neither worth Eating, Naming, or Deſcribing: Some that are never taſted but in a <hi>Drouth,</hi> others in a <hi>Famine.</hi>
+               </p>
+            </div>
+            <div type="description">
+               <head>
+                  <hi>Of</hi> Port Royal.</head>
+               <p>IT is an Iſland diſtinct from the Main of <hi>Jamaica,</hi> tho' before the <hi>Earthquake,</hi> it joyn'd by a Neck of Land to the <hi>Paliſados,</hi> but was ſeparated by the violence of an Inundation (thro' Gods Mercy) to prevent the Wickedneſs of their Metropolis diffuſing it ſelf, by Communication, over all the Parts of the Country, and ſo call that Judgment upon the Whole, which fell more particularly upon the Sinfuleſt part.</p>
+               <p>From a Spacious fine Built Town (according to Report) it is now reduc'd, by the encroachments of the Sea, to a little above a quarter of a Mile in Length, and about half ſo much the Breadth, having ſo few remains left of its former ſplendour, I could think no otherwiſe but that every Traveller who had given its Deſcrip<g ref="char:EOLhyphen"/>tion, made large uſe of his <hi>Licenſe.</hi> The Houſes are low, little, and irregular; and if I compare the beſt of their Streets in <hi>Port-Royal,</hi> to the Fag-End of <hi>Kent<g ref="char:EOLhyphen"/>ſtreet,</hi> where the <hi>Broom-men</hi> Live, I do them more than Juſtice.</p>
+               <p>
+                  <pb n="16" facs="tcp:192168:9"/>
+About ten a Clock in the Morning, their Noſtrils are ſaluted with a <hi>Land-Breeze,</hi> which blowing o'er the Iſland, ſearches the Bowels of the Mountains (being always crack'd and full of vents, by reaſon of exceſſive Heat) bringing along with it ſuch <hi>Sulphureous Favours,</hi> that I have fear'd the whole Iſland would have burſt out into a flaming <hi>Aetna,</hi> or have ſtifled us with Suffocating Fumes, like that of melted Minerals and Brimſtone.</p>
+               <p>In the afternoon, about Four a Clock, they might have the refreſhment of a <hi>Sea-Breeze,</hi> but ſuffering the <hi>Negro's</hi> to carry all their <hi>Naſtineſs</hi> to <hi>Windward</hi> of the Town, that the Nauſeous Efluvia's which ariſe from their ſtinking Dungills, are blown in upon them; thus what they might enjoy as a Bleſſing, they Ingratefully pervert by their own ill management.</p>
+               <p>They have a Church, 'tis true, but built rather like a <hi>Market-Houſe;</hi> and when the <hi>Flock</hi> are in their <hi>Pens,</hi> and the <hi>Paſtor</hi> Exalted to over-look his <hi>Sheep,</hi> I took, a Survey round me, and ſaw more variety of <hi>Scare-Crows</hi> than ever was ſeen at the Feaſt of <hi>
+                     <g ref="char:V">Ʋ</g>gly-Faces.</hi>
+               </p>
+               <p>Every thing is very Dear, and an Ingenious or an Honeſt Man may meet with this Encouragement, To ſpend a Hundred Pounds before he ſhall get a Penny. <hi>Madera-Wine</hi> and <hi>Bottle-Beer</hi> are Fifteen Pence the Bottle; naſty <hi>Claret,</hi> half a Crown; <hi>Rhenniſh,</hi> Five Shillings; and their beſt <hi>Canary,</hi> Ten Bits, or Six and Three Pence. They have this Pleaſure in Drinking, That what they put into their Bellies, they may ſoon ſtroak out of their Fingers-Ends; for inſtead of <hi>Exonerating</hi> they <hi>Fart,</hi> and <hi>Sweat</hi> inſtead of <hi>Piſſing.</hi>
+               </p>
+            </div>
+            <div type="description">
+               <head>Of the PEOPLE.</head>
+               <p>THE generality of the Men look as if they had juſt nock'd off their Fetters, and by an unexpected Providence, eſcap'd the danger of a near Misfortune, the dread of which, hath imprinted that in their <hi>Looks,</hi> which they can no more alter than an <hi>Ethiopian</hi> can his <hi>Colour.</hi>
+               </p>
+               <p>They are all <hi>Colonels, Majors, Captains, Lieutenants,</hi> and <hi>Enſigns,</hi> the two laſt being held in ſuch diſdain, that they are look'd upon as a <hi>Bungling Diver</hi> amongſt a Gang of <hi>Expert Pick-pockets; Pride</hi> being their <hi>Greatneſs,</hi> and <hi>Impudence</hi> their <hi>Vertue.</hi>
+               </p>
+               <p>They regard nothing but Money, and value not how they get it, there being no other Felicity to be enjoy'd but purely Riches. They are very Civil to Strangers who bring over conſiderable Effects; and will try a great many ways to Kill him fairly, for the lucre of his Cargo: And many have been made Rich by ſuch Wind<g ref="char:EOLhyphen"/>falls<g ref="char:punc">▪</g>
+               </p>
+               <p>A Broken <hi>Apothecary</hi> will make there a Topping <hi>Phyſician;</hi> a <hi>Barbers Prentice,</hi> a good <hi>Surgeon;</hi> a <hi>Bayliffs Follower,</hi> a paſſable <hi>Lawyer;</hi> and an <hi>Engliſh Knave,</hi> a very <hi>Honeſt Fellow.</hi>
+               </p>
+               <p>They have ſo great a veneration for <hi>Religion,</hi> That <hi>Bibles</hi> and <hi>Common Prayer Books</hi> are as good a Commodity amongſt them, as <hi>Muffs</hi> and <hi>Warming-Pans.</hi>
+               </p>
+               <p>A little Reputation among the <hi>Women,</hi> goes a great way; and if their Actions be anſwerable to their Looks, they may vie <hi>Wickedneſs</hi> with the <hi>Devil:</hi> An <hi>Impudent Air,</hi> being the only <hi>Charms</hi> of their <hi>Countenance;</hi> and a <hi>Lewd Carriage,</hi> the <hi>Study'd Grace</hi> of their <hi>Deportment.</hi> They are ſuch who have been <hi>Scandalous</hi> in <hi>England</hi> to the ut<g ref="char:EOLhyphen"/>moſt degree, either <hi>Tranſported</hi> by the <hi>State,</hi> or led by their <hi>Vicious Inclination;</hi> where they may be <hi>Wicked,</hi> without <hi>Shame;</hi> and <hi>Whore</hi> on, without <hi>Puniſhment.</hi>
+               </p>
+               <p>They are Stigmatiz'd with <hi>Nick-Names,</hi> which they bear, not with <hi>Patience</hi> only, but with <hi>Pride,</hi>as <hi>
+                     <g ref="char:V">Ʋ</g>nconſcionable Nan, Salt-Beef Peg, Buttock-de-Clink Jenny,</hi> &amp;c. <hi>Swearing, Drinking,</hi> and <hi>Obſcene Talk,</hi> are the principal Qualifications that render them acceptable to <hi>Male Converſation;</hi> and ſhe that wants a perfection in theſe admirable Acquirements, ſhall be as much Ridicul'd for her <hi>Modeſty,</hi> as a <hi>Plain-dealing Man</hi> amongſt a Gang of <hi>Knaves,</hi> for his <hi>Honeſty.</hi>
+               </p>
+               <p>In ſhort, <hi>Vertue</hi> is ſo <hi>Deſpis'd,</hi> and all ſorts of <hi>Vice Encourag'd,</hi> by both <hi>Sexes,</hi> that the Town of <hi>Port Royal</hi> is the very <hi>Sodom</hi> of the Univerſe.</p>
+               <trailer>FINIS.</trailer>
+               <pb facs="tcp:192168:9"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
